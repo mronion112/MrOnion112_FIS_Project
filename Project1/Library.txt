@@ -1,0 +1,12 @@
+Mã số duy nhất: 123
+Tên sách: 123
+Tác giả: 123
+Năm xuất bản: 2020
+Số lượng còn lại trong thư viện: 123
+---------------------------
+Mã số duy nhất: 321
+Tên sách: 321
+Tác giả: 321
+Năm xuất bản: 321
+Số lượng còn lại trong thư viện: 321
+---------------------------
